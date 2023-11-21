@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALI RAZA</h1>
-<h3 align="center">Test Automation Engineer (IP)</h3>
+<h3 align="center">Test Automation Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza3934&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza3934" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza3934" alt="aliraza3934" /></a> </p>
 
 - 🔭 I’m currently working on [Test Automation with BDD approach (Playwright, Cucumber and TypeScript)](https://github.com/najeeb1023/bookcart-automation)
 
