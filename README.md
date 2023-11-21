@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Api Testing.
 
-- 💬 Ask me about BDD,TDD,DDD,ATDD,Session based Testing,Paired Based Testing and ISTQB.
+- 💬 Ask me about BDD,TDD,DDD,ATDD,Testware,Testcharter,Testobject,Test base,Session based Testing,Paired Based Testing and ISTQB.
 
 - 📫 How to reach me arqureshi.3934@gmail.com
 
