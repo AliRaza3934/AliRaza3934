@@ -1,11 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm ALI RAZA</h1>
+
 <h3 align="center">Test Automation Engineer </h3>
-
-
 
 - 🔭 I’m currently working on [Test Automation with BDD approach (Playwright, Cucumber and TypeScript)](https://github.com/najeeb1023/bookcart-automation)
 
-- 👯 I’m looking to collaborate on [Test Automation (Cucumber, Cypress, Playwright)🌱 I’m currently learning Api Testing.](4/LUMA-Shopping-Mart-)
+- 👯 I’m looking to collaborate on [Test Automation (Cucumber, Cypress, Playwright)
+
+- 🌱 I’m currently learning Api Testing.](4/LUMA-Shopping-Mart-)
 
 - 💬 Ask me about **BDD,TDD,DDD,ATD and ISTQB.**
 
