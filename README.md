@@ -3,15 +3,15 @@
 
 <h3 align="center">Test Automation Engineer </h3>
 
-- 🔭 I’m currently working on [Test Automation with BDD approach (Playwright, Cucumber and TypeScript)](https://github.com/najeeb1023/bookcart-automation)
+- 🔭 I’m currently working on [Test Automation with BDD approach (Playwright, Cucumber and TypeScript)]
 
 - 👯 I’m looking to collaborate on [Test Automation (Cucumber, Cypress, Playwright)
 
-- 🌱 I’m currently learning Api Testing.](4/LUMA-Shopping-Mart-)
+- 🌱 I’m currently learning Api Testing.
 
-- 💬 Ask me about **BDD,TDD,DDD,ATD and ISTQB.**
+- 💬 Ask me about BDD,TDD,DDD,ATDD,Session based Testing,Paired Based Testing and ISTQB.
 
-- 📫 How to reach me **arqureshi.3934@gmail.com**
+- 📫 How to reach me arqureshi.3934@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
