@@ -3,9 +3,9 @@
 
 <h3 align="center">Test Automation Engineer </h3>
 
-- 🔭 I’m currently working on Test Automation with BDD approach (Playwright, Cucumber and TypeScript)
+- 🔭 I’m currently working on Test Automation with BDD approach (Playwright, Cucumber and TypeScript).
 
-- 👯 I’m looking to collaborate on [Test Automation (Cucumber, Cypress, Playwright)
+- 👯 I’m looking to collaborate on Test Automation (Cucumber, Cypress, Playwright).
 
 - 🌱 I’m currently learning Api Testing.
 
