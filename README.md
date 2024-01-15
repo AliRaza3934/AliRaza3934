@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm ALI RAZA</h1>
 
-<h3 align="center">Quality Assurance Engineer (Certified Tester Foundation Level ISTQB)
+<h3 align="center"> Software Quality Assurance Engineer (Certified Tester Foundation Level ISTQB)
 </h3>
 
 - 🔭 I’m currently working on Test Automation with BDD approach (Playwright, Cucumber and TypeScript).
