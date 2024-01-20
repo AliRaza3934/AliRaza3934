@@ -8,7 +8,9 @@
 
 - 👯 I’m looking to collaborate on Test Automation (Cucumber, Cypress, Playwright).
 
-- 🌱 I’m currently learning Api Testing.
+- 🌱 I have an handon experience with RestfulApi Testing using  postman.
+
+- 🌱 I’m currently learning Database Testing.
 
 - 💬 Ask me about BDD,TDD,DDD,ATDD,Testware,Testcharter,Testobject,Test base,Session based Testing,Paired Based Testing and ISTQB.
 
