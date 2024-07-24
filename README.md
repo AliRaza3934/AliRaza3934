@@ -1,6 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm ALI RAZA</h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+<h1 align="center">Hi 👋, I'm ALI RAZA </h1>
 
 <h3 align="center"> Software Quality Assurance Engineer (Certified Tester Foundation Level ISTQB)
 </h3>
